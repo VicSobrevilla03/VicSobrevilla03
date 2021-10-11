@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VicSobrevilla03
 - 👀 I’m interested in sports, cooking, studying and technology 
 - 🌱 I’m currently learning html, css, javascript, python and data science with azure
-- 💞️ I’m looking to collaborate on ...
+<!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me:
       ✉ so314246@uaeh.edu.mx
       ✉ sobres3@gmail.com
